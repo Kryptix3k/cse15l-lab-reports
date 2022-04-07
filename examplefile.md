@@ -1,4 +1,4 @@
-# Examples using Markdown 
+# Examples using Markdown and also Visual Studio Code 
 ## Basic syntax of the Markdown Cheat Sheet 
 *Hello* this class is **CSE15L*
 
@@ -15,10 +15,12 @@
 1. This class 
 2. is 
 3. CSE 15L
+4. Which is a lab class 
+
 More examples of basic Markdown:
 
 ---
 'return 2'
 # code block
-print 'this is the end of the examples'
-prtin 'bye'
+print 'this is the end of the changes I have made in the file'
+print 'bye for a second time '
