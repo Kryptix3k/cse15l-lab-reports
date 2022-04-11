@@ -1,4 +1,4 @@
-# Tutorial for Incoming 15L Students regarding Lab 1
+# Tutorial for Incoming 15L Students on Lab 1
 
 ## **Installing VScode** 
 * First you would go to the Visual Studio Code website by following this link https://code.visualstudio.com/ and then download based upon which platform you are using.
