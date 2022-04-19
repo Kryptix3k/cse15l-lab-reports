@@ -1,7 +1,7 @@
 # Tutorial for Incoming 15L Students on Lab 1
 
 ## **Installing VScode** 
-* First you would go to the Visual Studio Code website by following this link https://code.visualstudio.com/ and then download based upon which platform you are using.
+* First you would go to the Visual Studio Code website by following this link for [VScode](https://code.visualstudio.com/) and then download based upon which platform you are using.
 * After you downloaded you can open VS Code and then follow the prompts that come up once you open it and then you should be able to open a window in Visual studio Code.
 
 ![step1](step1.PNG)
@@ -19,17 +19,23 @@
 
 ![step3](step3.PNG)
 
+![step3Second](step33.PNG)
+
 ## **Moving Files with scp**
 * We are going to use the command called scp which is always ran from your computer
 * We create a file called WhereAmI.java which contains:
+```
 > class WhereAmI {
+
 public static void main(String[] args) {
+
 System.out.println(System.getProperty("os.name"));
 System.out.println(System.getProperty("user.name"));
 System.out.println(System.getProperty("user.home"));
 System.out.println(System.getProperty("user.dir"));
 }
 }
+```
 * We then run the command -> scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/ and we should be good to go , you can now use ls to view location of file and you can now run javac and java on the ieng6 computers.
 
 ![step4](step4.PNG)
@@ -37,15 +43,19 @@ System.out.println(System.getProperty("user.dir"));
 ## **Setting an SSH Key**
 * First in order to set up the SSH key we need to make sure that we are working in the client and then run these commands:
 * (Make sure to follow the prompts and for passphrase just enter/no paraphrase)
+```
 > ssh-keygen
 
 > ssh cs15lsp22zz@ieng6.ucsd.edu
 
->  mkdir .ssh
+> mkdir .ssh
 
 > logout
+```
 * Go back to client then run:
+```
 >  scp /Users/<user-name>/.ssh/id_rsa.pubcs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
+```
 * (user-name is based upon output from above command)
 * Should now not need to input password
 
