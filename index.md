@@ -2,4 +2,4 @@
 ![image](https://animesher.com/orig/0/50/503/5036/animesher.com_gif-early-model-computer-old-computer-503662.gif)
 
 * Links to my Lab Reports Below
-> [Week2 Lab Report 1](lab-report-1-week2.md)
+> [Week2 Lab Report 1](https://github.com/Kryptix3k/cse15l-lab-reports/blob/main/lab-report-1-week2.md)
