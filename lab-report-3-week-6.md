@@ -19,4 +19,4 @@
 ## Running tests on server:
 ![test](runTests.png)
 ## Combining the `scp`, `ssh`, and the commands for running tests:
-![image](runTests.png)
+![image](Combine.png)
