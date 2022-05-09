@@ -5,3 +5,5 @@
 > [Week2 Lab Report 1](https://kryptix3k.github.io/cse15l-lab-reports/lab-report-1-week2.html)
 
 > [Week 4 Lab Report 2](https://kryptix3k.github.io/cse15l-lab-reports/lab-report-2-week4.html)
+
+> [Week 6 Lab Report 3](https://kryptix3k.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
