@@ -12,3 +12,6 @@
 ## Using git commands to push new files to main repo:
 ![gitCmd](gitCmd.png)
 ## [Link](https://github.com/Kryptix3k/cse15l-lab-reports/commit/9e6e8ee1f3c927bbf4d53245492ac4711e547531) to commit
+
+# Copy Whole Directories with `scp -r`
+## Copied markdown-parse directory to server:
