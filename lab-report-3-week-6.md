@@ -6,3 +6,9 @@
 
 # Set up Github Access from ieng6
 ## Public key stored on Github:
+![publicKey](publicKey.png)
+## Public and Private key stored on User Account:
+![private/pub](privateKey.png)
+## Using git commands to push new files to main repo:
+![gitCmd](gitCmd.png)
+## [Link](https://github.com/Kryptix3k/cse15l-lab-reports/commit/9e6e8ee1f3c927bbf4d53245492ac4711e547531) to commit
