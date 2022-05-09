@@ -15,3 +15,8 @@
 
 # Copy Whole Directories with `scp -r`
 ## Copied markdown-parse directory to server:
+![Copy](scpR.png)
+## Running tests on server:
+![test](runTests.png)
+## Combining the `scp`, `ssh`, and the commands for running tests:
+![image](runTests.png)
